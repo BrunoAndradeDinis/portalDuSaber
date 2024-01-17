@@ -1,0 +1,1 @@
+var contains = "Hello world!"
