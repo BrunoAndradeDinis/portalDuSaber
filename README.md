@@ -9,4 +9,4 @@
 -- Banco de dados
 -- Python | Parte 2
 -- Aplicando segurança no código
--- Devops
+-- Devops e alguma coisa a mais
