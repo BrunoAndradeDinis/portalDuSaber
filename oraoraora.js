@@ -1,1 +1,0 @@
-var contains = "Hello world!"
